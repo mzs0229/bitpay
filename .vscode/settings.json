@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "zerg",
+            "dialect": "MySQL",
+            "name": "zerg",
+            "password": "root",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        },
+        {
+            "database": "homestead",
+            "dialect": "MySQL",
+            "name": "bitpay",
+            "password": "secret",
+            "port": 33060,
+            "server": "localhost",
+            "username": "homestead"
+        }
+    ],
+    "blade.format.enable": true
+}
